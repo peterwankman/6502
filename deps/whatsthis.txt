@@ -1,0 +1,2 @@
+Put SDL2-2.0.7 here and let scripts\cpdeps.bat put it into the bin directory.
+For different versions, don't forget to change the linker settings.
